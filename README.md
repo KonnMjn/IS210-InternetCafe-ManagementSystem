@@ -59,7 +59,9 @@ cd IS210-InternetCafe-ManagementSystem
 
 
 ## 📄 License
-For educational use only. All rights reserved to the development team.
+📌 Code components are licensed under the MIT License, allowing reuse, modification, and distribution with attribution and no warranty.
+
+📎 Non-code contents (e.g., Report, Poster) are shared under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), allowing reuse with attribution for non-commercial purposes.
 
 ---
 
